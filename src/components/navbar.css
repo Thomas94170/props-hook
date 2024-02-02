@@ -1,0 +1,10 @@
+
+.activeLink {
+    text-decoration: underline white;
+    /* Soulignement en blanc */
+}
+
+.activeLink:hover {
+    text-decoration: underline white;
+    /* Soulignement en blanc */
+}
